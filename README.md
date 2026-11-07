@@ -1,11 +1,11 @@
-# 👋 你好！
+# 👋 Hello!
 
-一名 AI 产品经理，喜欢把工作中的实际问题做成好用的小工具。  
-欢迎试用，也欢迎告诉我哪里可以做得更好。
+I'm an AI Product Manager who enjoys turning everyday work problems into useful little tools.  
+Feel free to try them out and share your feedback.
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="golden-retriever-running.png">
-  <img src="golden-retriever-running.gif" alt="头顶墨镜、戴橘色三角巾的金毛小狗正在跑步" width="220" height="220">
+  <img src="golden-retriever-running.gif" alt="A running golden retriever with sunglasses and an orange bandana" width="220" height="220">
 </picture>
 
-谢谢来访 ❤️
+Thanks for stopping by ❤️
